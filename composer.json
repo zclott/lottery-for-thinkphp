@@ -1,0 +1,17 @@
+{
+    "name": "lotterythinkphp/lottery",
+    "description": "thinkphp lottery",
+    "keywords": ["lottery","draw","turntable"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zc",
+            "email": "943826443@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+		"lotterythinkphp\\lottery\\": "src/"
+        }
+    }
+}
